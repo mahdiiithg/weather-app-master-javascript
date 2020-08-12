@@ -1,9 +1,10 @@
 # weather-app
 
+## Click here to see Demo https://mahdiiithg.github.io/weather-app-master-javascript/
 
-### Project made from scratch using Vanilla JS
+#### Project made from scratch using Vanilla JS
 
-#### This project uses the [Open Weather Map API](https://openweathermap.org/api)
+##### This project uses the [Open Weather Map API](https://openweathermap.org/api)
 
 Since this API doesn't let you search for the Locations available without getting their weather, and the only thing they do is give you a .json file with 19mb with this info, I use https://get-cities-ids.herokuapp.com/.
 
