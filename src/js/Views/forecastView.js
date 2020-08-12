@@ -71,6 +71,5 @@ export const renderResult = (result, container) => {
       </div>
     </div>
   `;
-  console.log('result.name',result);
   container.insertAdjacentHTML('beforeend', markup);
 };
